@@ -33,6 +33,7 @@ public class CourseEvalParser
 
 	}
 }
+//https://stackoverflow.com/questions/16377754/parse-json-file-using-gson
 class Response {
     Map<String, Course> descriptor;
     // standard getters & setters...
